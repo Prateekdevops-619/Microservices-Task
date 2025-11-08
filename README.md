@@ -5,6 +5,23 @@ This document provides details on testing various services after running the `do
 
 ---
 
+## Docker file for each microservices
+
+<img width="883" height="446" alt="image" src="https://github.com/user-attachments/assets/3bf537fc-d0f3-4746-b717-e9f43b8f1a28" />
+
+## Docker compose for microservices and communication setup
+
+<img width="945" height="317" alt="image" src="https://github.com/user-attachments/assets/6ae487da-e966-4e7b-a5f0-41f949681936" />
+
+## Docker compose file code
+
+<img width="1227" height="799" alt="image" src="https://github.com/user-attachments/assets/cc65c6ef-56d0-4585-bb40-1b213bcbc898" />
+
+<img width="752" height="575" alt="image" src="https://github.com/user-attachments/assets/62c9ee17-ba7f-4b6e-9e4f-a920a6e9436c" />
+
+
+
+
 ## Services and Endpoints
 
 ### **User Service**
@@ -74,9 +91,15 @@ This document provides details on testing various services after running the `do
 
 ## Instructions
 1. Start all services using the `docker-compose` file:
+   <img width="1894" height="260" alt="image" src="https://github.com/user-attachments/assets/39bb5ac1-ec2c-46d5-a364-365774f44f78" />
+
    ```
    docker-compose up
+
+   <img width="1167" height="400" alt="image" src="https://github.com/user-attachments/assets/62851078-2652-4639-8555-be610c52c56d" />
+
    ```
-2. Once the services are running, use the above endpoints to verify the functionality.
+   
+3. Once the services are running, use the above endpoints to verify the functionality.
 
 Happy testing!
